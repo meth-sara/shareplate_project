@@ -1,0 +1,8 @@
+
+{
+  "name": "SharePlate",
+  "description": "A zero-waste food donation network connecting hotels/restaurants with orphanages and volunteers to end hunger and prevent food waste.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
